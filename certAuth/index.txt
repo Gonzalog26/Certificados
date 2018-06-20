@@ -3,3 +3,6 @@ V	190410102854Z		02	unknown	/CN=appserver1dev.tekniker.es/O=client
 V	190410103151Z		03	unknown	/CN=raspberry2/O=client
 V	190411125845Z		04	unknown	/CN=servidorLDAP/O=server
 V	190416143025Z		05	unknown	/CN=publisherPrueba/O=server
+V	190419141601Z		06	unknown	/CN=containerserver1dev/O=client
+V	190420062707Z		07	unknown	/CN=GatewayLora/O=client
+V	190618143517Z		08	unknown	/CN=respondDevice/O=server
