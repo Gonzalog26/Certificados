@@ -9,4 +9,4 @@ V	190618143517Z		08	unknown	/CN=respondDevice/O=server
 V	190620080121Z		09	unknown	/CN=develcoGateway/O=client
 V	190629095659Z		0C	unknown	/CN=sigfoxPublisher/O=client
 V	190629095753Z		0D	unknown	/CN=raspberry1/O=client
-V	190706101431Z		0E	unknown	/CN=livinglab1pre.tekniker.es/O=server
+V	190706103825Z		0F	unknown	/CN=broker-livinglab.tekniker.es/O=server
